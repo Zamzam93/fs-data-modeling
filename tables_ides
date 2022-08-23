@@ -1,0 +1,6 @@
+Table
+1. users - includes user_id, email, password
+2. recipes - inclused recipes_id, user_id, ingedients and instruction, public or private
+3. grocery_lists - includes ingedients
+4. occasions - user_id, recipes_id
+5. meals_list - middle table between recipes and grocery_lists / occasions, where all the recipes choosen combined into a lists and feed to grocery_lists for ingredients, or to add to occasion collections.

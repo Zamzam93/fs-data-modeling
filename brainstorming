@@ -1,0 +1,10 @@
+user_id
+email
+password
+recipes_id
+ingredients
+instructions
+public/private
+grocery_list_id
+quantity
+occasions
